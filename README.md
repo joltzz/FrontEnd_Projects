@@ -1,2 +1,2 @@
 # FrontEnd_Projects
-Created with CodeSandbox
+These are some of my projects that i will make or made in my Full Stack Development course 
