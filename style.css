@@ -1,0 +1,33 @@
+.header {
+  background-color: #333333;
+  text-align: center;
+  height: 64px;
+}
+.img {
+  width: 640px;
+  height: auto;
+  background: #ffffff;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #eaeaea;
+}
+.img img {
+  width: 640px;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: bold;
+  color: #A64855;
+  margin: 30px;
+}
+
+h4 {
+  color: #000000;
+  margin: 0 30px 30px 30px;
+}
+
+body {
+  background: #fafafa;
+}
