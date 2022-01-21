@@ -1,2 +1,2 @@
-# FrontEnd_Projects
-These are some of my projects that i will make or made in my Full Stack Development course 
+# Meme Page
+This is a page that i made for one of my first projects on my full stack development course
